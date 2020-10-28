@@ -32,8 +32,10 @@ All the dependencies (PyGame, NumPy, NumPy-Quaternion) should also be installed 
 Then, the Python interpreter can be invoked to run any sample, for example:
 
 ~~~
-python sample_sphere.py
+python3 sample_sphere.py
 ~~~
+
+Note that the Python interpreter can have different command names in different OS's (py, python, python3).
 
 ### Sphere (sample_sphere.py)
 
