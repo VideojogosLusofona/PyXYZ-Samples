@@ -7,7 +7,6 @@ import os
 
 from quaternion import from_rotation_vector
 
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from pyxyz import *
 
 GRAVITY = -9.8
